@@ -53,3 +53,10 @@ Notes
 Disclaimer
 This tool is intended for authorized security testing and network administration only. Do not use it to scan systems without explicit permission. The authors are not responsible for misuse.
 >>>>>>> eaf31de (Initial Commit - AthrvSec Recon Tool)
+
+📁 Project Structure
+├── main.py
+├── core/
+│   └── PortScanner.py
+├── requirements.txt
+└── README.md

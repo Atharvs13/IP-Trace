@@ -19,10 +19,10 @@ def show_banner():
     print(Fore.CYAN + r"""
                          AthrvSec Recon Engine
                          Professional TCP/IP & Port Scanner
-                         https://github.com/athrvsec-recon
+                         https://github.com/atharvs13/athrvsec-recon.git
     """)
-    print(Fore.YELLOW + "           Multithreaded TCP IP & Port Scanner")
-    print(Fore.GREEN + f"           Started: {datetime.datetime.now()}")
+    print(Fore.RED + "           Multithreaded TCP IP & Port Scanner")
+    print(Fore.GREEN + f"        Started: {datetime.datetime.now()}")
     print(Fore.MAGENTA + "=" * 75)
     print(Style.RESET_ALL)
 
